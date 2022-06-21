@@ -4,13 +4,13 @@
   Neste projeto será realizado a documentação do mesmo, que irá abranger o Script SQL desenvolvido no SGBD escolhido, Projeto Lógico em formato do SQL Power Arquitect e Projeto Lógico em formato de PDF.
 
   Este trabalho foi desenvolvido pelos alunos:<br>
-    Daniel Marculano<br>
-    Danillo Hubner<br>
-    Erick Vinicius<br>
-    Guilherme Araújo<br>
-    João Victor Antunes<br>
+    [Daniel Marculano](https://github.com/danielsmar/uvv_bd_1_cc2m)<br>
+    [Danillo Hubner](https://github.com/DanilloHubner/uvv_bd_1_cc2m)<br>
+    [Erick Vinicius](https://github.com/erick-viniicius/uvv_bd_1_cc2m)<br>
+    [Guilherme Araújo](https://github.com/GuiAralopes)<br>
+    [João Victor Antunes](https://github.com/DevTrzJbr/uvv_bd_1_cc2m)<br>
 
-Orientado pelo Professor Abrantes Araújo S. Filho.
+Orientado pelo [Professor Abrantes Araújo S. Filho](https://github.com/abrantesasf).
 
 ## 1. Modelo Conceitual
 
@@ -22,7 +22,7 @@ Orientado pelo Professor Abrantes Araújo S. Filho.
   Um conceito de maior nível de adaptação para um modelo relacional de dados usados no Sistema de Gerenciamento. 
   Diferentemente do modelo conceitual, o projeto lógico transforma as entidades em tabelas e todos os atributos recebem
   seus tipos de dados, e são definidas as relações de cada tabela. Foi utilizado para a criação do projeto, 
-  o SQL Power Architect(link). Além do do arquivo do programa, é possível visualizar o arquivo em PDF(link).
+  o [SQL Power Architect](https://github.com/GuiAralopes/sistema_igreja/blob/main/projeto-logico-igreja.architect). Além do do arquivo do programa, é possível visualizar o [arquivo em PDF](https://github.com/GuiAralopes/sistema_igreja/blob/main/Projeto-logico-igreja.pdf).
 
 ### 2.1 Sistema Igreja
 
